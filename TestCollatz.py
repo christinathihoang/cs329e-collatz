@@ -115,7 +115,7 @@ class TestCollatz (TestCase):
         w = StringIO()
         collatz_solve(r, w)
         self.assertEqual(
-            w.getvalue(), "1 10 1\n100 200 1\n201 210 1\n900 1000 1\n")
+            w.getvalue(), "1 10 1\n100 200 1\n201 210 1\n900 1000 174\n")
 
 # ----
 # main
