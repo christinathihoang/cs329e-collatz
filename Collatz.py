@@ -76,6 +76,8 @@ def collatz_solve(r, w):
     r a reader
     w a writer
     """
+    r = open("RunCollatz.in", r)
+    w = open("RunCollatz.out", w)
     for s in r:
         i, j = collatz_read(s)
         v = collatz_eval(i, j)
