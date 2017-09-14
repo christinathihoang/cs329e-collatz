@@ -24,23 +24,33 @@ def collatz_read(s):
 # collatz_eval
 # ------------
 
-
+cache = {}
 def collatz_eval(i, j):
     """
     i the beginning of the range, inclusive
     j the end       of the range, inclusive
     return the max cycle length of the range [i, j]
     """
-    cycle_length = 0
-    while j != i:
-        if j%2 == 0:
-            j = j/2
-            cycle_length += 1
-        else:
-            j = 3*j + 1
-            cycle_length += 1
-    return cycle_length
-
+    max_cycle = 0
+    if i > j:
+        i, j = j, i
+        
+    for n in range(i, j+1):
+        cycle_length = 1
+        if n in cache:
+            cycle_length = cache[value]
+        else: 
+            while n != 1:
+                if n%2 == 0:
+                    n = n/2
+                    cycle_length += 1
+                elif n%2 == 1:
+                    n = 3*n + 1
+                    cycle_length += 1
+            cache[n] = cycle_length
+        if cycle_length > max_cycle:
+            max_cycle = cycle_length
+    return max_cycle
 # -------------
 # collatz_print
 # -------------
