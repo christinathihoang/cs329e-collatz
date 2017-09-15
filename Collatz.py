@@ -53,6 +53,7 @@ def collatz_eval(i, j):
             cache[original_n] = cycle_length
         if cycle_length > max_cycle:
             max_cycle = cycle_length
+            
     return max_cycle
 # -------------
 # collatz_print
