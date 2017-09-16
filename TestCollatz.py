@@ -106,7 +106,7 @@ class TestCollatz (TestCase):
     
     def test_print(self):
         w = StringIO()
-        collatz_print(w, 1, 10, 20)
+        collatz_print(w, 5 94 116)
         self.assertEqual(w.getvalue(), "1 10 20\n")
     # -----
     # solve
@@ -117,21 +117,21 @@ class TestCollatz (TestCase):
         w = StringIO()
         collatz_solve(r, w)
         self.assertEqual(
-            w.getvalue(), "1 10 1\n100 200 1\n201 210 1\n900 1000 174\n")
+            w.getvalue(), "1 10 20\n100 200 125\n201 210 89\n900 1000 174\n")
     
     def test_solve(self):
-        r = StringIO("94 841\n56 875\n2 64\n1 89 116\n")
+        r = StringIO("94 841\n56 875\n2 64\n1 89\n")
         w = StringIO()
         collatz_solve(r, w)
         self.assertEqual(
-            w.getvalue(), "94 842 171\n56 875 179\n2 64 113\n1 89 116\n")
+            w.getvalue(), "94 841 171\n56 875 179\n2 64 113\n1 89 116\n")
     
     def test_solve(self):
         r = StringIO("1 999\n999 999999\n889 7000\n1 1000\n")
         w = StringIO()
         collatz_solve(r, w)
         self.assertEqual(
-            w.getvalue(), "1 999 179\n999 999999 525\n889 7000 262\n1 1000 262\n")
+            w.getvalue(), "1 999 179\n999 999999 525\n889 7000 262\n1 1000 179\n")
     
     def test_solve(self):
         r = StringIO("4 658\n89 841\n20 324\n15 61\n")
