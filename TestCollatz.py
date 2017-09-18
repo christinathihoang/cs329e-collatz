@@ -148,7 +148,7 @@ if __name__ == "__main__":
     main()
 
 """ #pragma: no cover
-% coverage-3.5 run --branch TestCollatz.py >  TestCollatz.out 2>&1
+% coverage-3.5 run --branch TestCollatz.py >  TestCollatz.out
 
 
 % cat TestCollatz.out
