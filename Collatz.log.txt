@@ -1,0 +1,22 @@
+commit 032584030300be895dcb5f44335958dbb678a612 (HEAD -> master, origin/master, origin/HEAD)
+Merge: 60481b5 f29b3a4
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Mon Sep 18 21:06:22 2017 -0500
+
+    Merge branch 'devbranch'
+
+commit f29b3a48d11418350d91d06d89f91a956d6b369d (origin/devbranch, devbranch)
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Mon Sep 18 21:06:06 2017 -0500
+
+    Updating files
+
+diff --git a/Runcollatz.tmp b/Runcollatz.tmp
+deleted file mode 100644
+index 3c4900f..0000000
+--- a/Runcollatz.tmp
++++ /dev/null
+@@ -1,70 +0,0 @@
+-1 10 20
+-100 200 125
+-201 210 89
