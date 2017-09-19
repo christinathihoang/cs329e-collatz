@@ -1,0 +1,262 @@
+commit a7d29154623f47598c5f1b53e5d8274ba787222f
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Mon Sep 18 22:52:20 2017 -0500
+
+    Update Collatz.log
+
+commit 032584030300be895dcb5f44335958dbb678a612
+Merge: 60481b5 f29b3a4
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Mon Sep 18 21:06:22 2017 -0500
+
+    Merge branch 'devbranch'
+
+commit f29b3a48d11418350d91d06d89f91a956d6b369d
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Mon Sep 18 21:06:06 2017 -0500
+
+    Updating files
+
+commit 60481b5744119cf73e79ad946ef99397c004d283
+Merge: b0ccfd1 4ad02a8
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Mon Sep 18 19:11:13 2017 -0500
+
+    Merge branch 'devbranch'
+
+commit 4ad02a803ec903244b7906753dbcd8d6a44d4a55
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Mon Sep 18 19:10:54 2017 -0500
+
+    add files
+
+commit b0ccfd1af32c17c94bba8ac1140e4f5d94f33cd4
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Mon Sep 18 18:49:45 2017 -0500
+
+    Update TestCollatz.py
+
+commit 52d169dfb031483563afc3a034df5f491bad2803
+Author: Christina Hoang <christinahoang@utexas.edu>
+Date:   Mon Sep 18 18:20:44 2017 -0500
+
+    Update .travis.yml
+
+commit 95f9b8e3fcbb3e6674e1c5d4c7502d49e5d7f02d
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Mon Sep 18 17:54:19 2017 -0500
+
+    Add Collatz.log,txt
+
+commit 6d02eb4cdb8b6a90c372c36bf933394ddbf3d70f
+Merge: bebfac6 eb277cf
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Mon Sep 18 17:53:34 2017 -0500
+
+    Merge branch 'master' of https://github.com/christinathihoang/cs329e-collatz
+
+commit eb277cf193e80c6af356bb384a7ef6fc33e7fa37
+Author: Christina Hoang <christinahoang@utexas.edu>
+Date:   Mon Sep 18 17:53:03 2017 -0500
+
+    Update .travis.yml
+
+commit bebfac6a53b532c62dfb14aadcc40ad0837ff17f
+Merge: 2908dce 2ca4d4f
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Mon Sep 18 17:40:29 2017 -0500
+
+    Merge branch 'devbranch'
+
+commit 2ca4d4f8b8ea251645eb878bb724a1a9622396ef
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Mon Sep 18 17:40:01 2017 -0500
+
+    Update TestCollatz.txt with cProfile results
+
+commit 2908dcefae841c828eaf0d3b15640b9b0025834c
+Merge: 243dc6c 8f83ef8
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Mon Sep 18 16:39:16 2017 -0500
+
+    Merge branch 'devbranch'
+
+commit 8f83ef87a81956fdd23fe0ef2da590c1f1ad3f07
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Mon Sep 18 16:38:54 2017 -0500
+
+    Create Collatz.html
+
+commit 243dc6c3a60abbb8efec06f337e2a267d0575093
+Merge: 96e32b0 f06390d
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Sun Sep 17 19:47:59 2017 -0500
+
+    Merge branch 'devbranch'
+
+commit f06390dde9d4884f220335241350b4f843efbd8e
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Sun Sep 17 19:43:35 2017 -0500
+
+    Updating files
+    :
+
+commit 96e32b026d838f635f9ab9caba0fe999dd545c05
+Merge: 1d7de5b 52aa985
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Sun Sep 17 15:18:49 2017 -0500
+
+    Merge branch 'devbranch'
+
+commit 52aa985308b210dee87fa96477a28903b6e6f79c
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Sun Sep 17 15:18:23 2017 -0500
+
+    delete RunCollatz.tmp
+
+commit 1d7de5b14d1568be5a192ed632578869c0526d33
+Merge: b3a6427 fdd09de
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Sun Sep 17 15:17:33 2017 -0500
+
+    updating RunCollatz.out
+
+commit fdd09de7cf2c604815637f9cbfed86a28de7f42b
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Sun Sep 17 14:52:49 2017 -0500
+
+    Updating RunCollatz.out
+
+commit b04254cd0fd927b5a4473db7ee9de6a4d37353a4
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Sun Sep 17 14:31:44 2017 -0500
+
+    Updating RunCollatz.py
+
+commit 4e34641a7dbab714507fbffb4a0308d7944e1192
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Sun Sep 17 13:31:44 2017 -0500
+
+    Updating RunCollatz.py to pass Travis CI
+
+commit b3a64271d832d3449f2e62e8627417f937121eb5
+Merge: 92fef0b 43d345c
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Fri Sep 15 22:03:47 2017 -0500
+
+    Merge branch 'devbranch'
+
+commit 43d345c6dd862cc55817f2db5c005697ec88dfd9
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Fri Sep 15 21:44:15 2017 -0500
+
+    Update TestCollatz.py
+
+commit 716fdeeef806644cecebf9e6ee6c899ba46170ce
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Fri Sep 15 21:30:26 2017 -0500
+
+    Update TestCollatz.py
+
+commit 2f225016f08553e6355d00cf6f1f33e004bc8c58
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Fri Sep 15 18:14:04 2017 -0500
+
+    Update TestCollatz.py
+
+commit efae0477cd89b9fc7049c6cbe1229519e9a01d47
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Fri Sep 15 18:05:30 2017 -0500
+
+    Update Collatz.py
+
+commit 92fef0b26ca83c74af7c6cd1049686747fcb76a2
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Fri Sep 15 03:00:03 2017 -0500
+
+    Update
+
+commit 68bb2a98d02b0ea3615d2598a47160c37a2bc232
+Merge: 39b1338 f340afd
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Fri Sep 15 02:57:38 2017 -0500
+
+    Update
+
+commit f340afde7c78165a844fbb0927ae7a0d7cf84d2d
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Fri Sep 15 02:27:39 2017 -0500
+
+    Update Collatz.py
+
+commit 2d3eba634be4e98ae9b435ac2d0ed98fca59e5c1
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Thu Sep 14 10:58:47 2017 -0500
+
+    Update Collatz.py
+
+commit 59304d71cee5e52716eaaf5442edbec657746a92
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Thu Sep 14 09:47:52 2017 -0500
+
+    Update Collatz.py
+
+commit 0c475945581ad7911d3b53d63885b188076c065b
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Thu Sep 14 09:38:58 2017 -0500
+
+    Updated Collatz.py
+
+commit e13b1ba1b93f60294880fb81cd037283643b3cf7
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Wed Sep 13 19:49:28 2017 -0500
+
+    Updating files to devbranch
+
+commit 39b13389c94a691eb792094e1fcc9ebe0e780172
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Tue Sep 12 05:18:12 2017 -0500
+
+    removed subfolders
+
+commit aaa8a0b56ad1ed3a93d0aea5119c1c30194f9ec4
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Tue Sep 12 05:16:58 2017 -0500
+
+    moved makefile
+
+commit 8ef3260b647cdec96898e65193c71cd3b0df9b69
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Tue Sep 12 05:15:52 2017 -0500
+
+    moved .gitignore file
+
+commit 54d325c1ceecc7a42da18b0bc5d3011697bc8db4
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Tue Sep 12 05:07:30 2017 -0500
+
+    reupdated Collatz.py
+
+commit b82859b1df043d0d16395bbde6f51c06a81ff81c
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Tue Sep 12 05:05:47 2017 -0500
+
+    moved .travis.yml
+
+commit d4a0587473e85403210c6beb80bfbbf3f209cbf5
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Tue Sep 12 04:48:11 2017 -0500
+
+    modified collatz_eval in Collatz.py
+
+commit bb98a388ee1a97aa7475c08c4056a9ef8eb85108
+Author: Christina Thi Hoang <christinahoang@utexas.edu>
+Date:   Tue Sep 12 04:44:01 2017 -0500
+
+    cloned collatz folder
+
+commit 5b769107ed78d9772d29112ea18b82bd8ea5c729
+Author: Christina Hoang <christinahoang@utexas.edu>
+Date:   Mon Sep 11 03:27:04 2017 -0500
+
+    Initial commit
